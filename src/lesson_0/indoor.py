@@ -1,9 +1,7 @@
-def indoor():
+/def indoor():
     # This code is an example and should be replaced with your own solution
-    print("SAY SOMETHING")
     value = input()
-    print("Inside voices please")
-    print(value.lower())
+    print(value.upper())
 
 
 if __name__ == "__main__":
